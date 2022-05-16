@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RunWorld
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=RunWorld()
+comment3.params=
+comment3.target=void\ timer()
+comment4.params=
+comment4.target=void\ addObjects()
+comment5.params=
+comment5.target=void\ addRunes()
+comment6.params=
+comment6.target=void\ saveData()
+comment7.params=
+comment7.target=void\ getData()
+comment8.params=
+comment8.target=void\ prepare()
+numComments=9
